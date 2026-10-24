@@ -2,6 +2,12 @@
 
 Een snelle, toegankelijke verkenner voor je bestanden. Lokaal, offline, donationware.
 
+## 🎬 Uitlegvideo
+
+[![Uitlegvideo DraveExplorer](https://dravenlock.nl/video/DraveExplorer.jpg)](https://dravenlock.nl/video/DraveExplorer.mp4)
+
+[▶ Bekijk de uitlegvideo](https://dravenlock.nl/video/DraveExplorer.mp4) (ongeveer 2 minuten, Nederlands)
+
 *Categorie: Systeem en beveiliging · versie 0.7.3*
 
 ## ⬇️ Downloaden (Windows, geen Python nodig)
